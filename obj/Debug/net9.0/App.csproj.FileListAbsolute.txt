@@ -12,3 +12,4 @@
 /Users/mrugankulkarni/Developer/CapgeminiTraining1/App/obj/Debug/net9.0/App.pdb
 /Users/mrugankulkarni/Developer/CapgeminiTraining1/App/obj/Debug/net9.0/App.genruntimeconfig.cache
 /Users/mrugankulkarni/Developer/CapgeminiTraining1/App/obj/Debug/net9.0/ref/App.dll
+/Users/mrugankulkarni/Developer/CapgeminiTraining1/App/obj/Debug/net9.0/App.sourcelink.json
