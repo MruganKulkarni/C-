@@ -2,6 +2,6 @@ public class PaymentService
 {
     public bool ProcessPayment(Payment payment)
     {
-        return true;
+        return payment.Amount > 0;
     }
 }
