@@ -2,7 +2,7 @@ using System;
 
 class PositiveNegative
 {
-    static void main()
+    static void Main()
     {
         int number;
         Console.WriteLine("Enter an integer:");
