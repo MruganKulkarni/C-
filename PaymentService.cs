@@ -5,6 +5,6 @@ public class PaymentService
         if (payment == null)
             return false;
 
-        return true;
+        return payment.Amount > 0;
     }
 }
