@@ -67,6 +67,7 @@
 ### What I have done:
 * Viva (Review 1 - Git basics, Programming , Dotnet Fundamentals)
 * Level 1 Problems Arrays
+* Restructured Github completely
 
 ### What I will do next:
 * Arrays lab practice
