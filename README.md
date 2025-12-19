@@ -1,6 +1,6 @@
 # Daily Status Update
 
-## 14th October 2025
+## 14th December 2025
 
 ### What I have done:
 * Created Github Workflow
@@ -12,7 +12,7 @@
 ### Issues faced:
 * Understanding and Learning Git
 
-## 15th October 2025
+## 15th December 2025
 
 ### What I have done:
 * Additional Questions sent on Whatsapp
@@ -24,7 +24,7 @@
 ### Issues faced:
 * Understanding Git and Resolving mistakes in organization of file structure in git
 
-## 16th October 2025
+## 16th December 2025
 
 ### What I have done:
 * Level 2 Problems Programming Elements
@@ -36,7 +36,7 @@
 ### Issues faced:
 * No major issues faced, few coding questions were challenging.
 
-## 17th October 2025
+## 17th December 2025
 
 ### What I have done:
 * Level 1 Problems Control Flows
@@ -48,7 +48,7 @@
 ### Issues faced:
 * Restructuring Branches and folder organization.
 
-## 18th October 2025
+## 18th December 2025
 
 ### What I have done:
 * Level 3 Problems Programming Elements
@@ -62,7 +62,7 @@
 ### Issues faced:
 * Revision of concepts and lab practice within the given time.
 
-## 19th October 2025
+## 19th December 2025
 
 ### What I have done:
 * Viva (Review 1 - Git basics, Programming , Dotnet Fundamentals)
